@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Shivani Yadav
-- 👀 I’m interested in Data Science field
-- 🌱 I’m currently learning Exploratory data analysis,machine learning techniques,classification,Data Visualization,Statistics
-- 💞️ I’m looking to collaborate on ...
+Completed M.Tech in Data Science specialization with overall CGPA 8.33.
+- 👀 I’m interested in Data Science field and different machine learning algorithms.I beleive in experimenting and trying out different approaches to solve given problems.
+- 🌱 I’m currently learning Different Machine Learning techniques,Classification,Regression,Data cleansing,Exploratory Data analysis,Statistics,Data Visualization,Feature Engineering etc.
+Skill set- Language:Java,Python
+Python libraries:NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn
+Database: SQL
+Other- Statistics,Math
 - 📫 How to reach me @https://www.linkedin.com/in/shivani-yadav-245031b8/
 
 <!---
